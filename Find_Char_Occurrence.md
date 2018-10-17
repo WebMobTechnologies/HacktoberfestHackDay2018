@@ -3,7 +3,7 @@
 Defination: Find possible all unique occurrence of characters (Strings) from unique character array or string and output string length.
 # Example - 1:
 Input:
-  - Provide unique character array or string (Ex: 'ab')
+  - Provide string having unique characters (Ex: 'ab')
   - Provide output string length (Ex: 2)
 
 
@@ -13,7 +13,7 @@ Output:
 
 # Example - 2:
 Input:
-  - Provide unique character array or string (Ex: 'abc')
+  - Provide string having unique characters (Ex: 'abc')
   - Provide output string length (Ex: 3)
 
 
