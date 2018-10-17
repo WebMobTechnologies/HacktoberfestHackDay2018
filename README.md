@@ -23,8 +23,8 @@ git checkout -b issue/branch-name
 5. Add your name in the following format in `CONTRIBUTORS.md` file
 
 
-```md
-Name: [YOUR NAME](Github Link)
+```markdown
+Name: [YOUR NAME](Github Profile Link)
 Place: Your city
 About: Short Introduction
 Programming Language: Which programming language do you know?
