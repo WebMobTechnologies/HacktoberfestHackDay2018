@@ -9,7 +9,9 @@ Output : String has all unique charcters
 User input : ABCDAD 
 Output : String has not all unique charcters
 
-## Find the Dublicate character from String and print it if not having all unique character.if Dublicate character found multipule time then also print only it one time.
+## Find the Dublicate character from String and print it if not having all unique character.
+
+If Dublicate character found multipule time then also print only it one time.
 
 Example 
 User input : ABCDDDGHAG 
