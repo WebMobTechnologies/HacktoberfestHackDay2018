@@ -1,19 +1,42 @@
-Determine if a string has all unique characters.
+# HacktoberfestHackDay2018
+Hacktoberfest Hack Day Celebration at WebMob Technologies.
 
-Problem : Implement an algorithm to determine if a string has all unique characters. What if you cannot use additional data structures?
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source-150x25.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
-Example :
-User input : ABCDEF
-Output : String has all unique charcters
+# What is Hacktoberfest?
+[Hacktoberfest](https://hacktoberfest.digitalocean.com/) is a month-long celebration in open source community. It motivates open source contributors as well as first-time contributors. For the first time contributor, it's a bit hard or overwhelming but the fun part is "Everyone is welcome"
 
-User input : ABCDAD
-Output : String has not all unique charcters
 
-Find the Dublicate character from String and print it if its has not all unique character.
+# Let's Start
+1. Look for the issues which fits you and ask maintainers to assigned to you.
+2. Fork this repository.
+3. Clone your fork to your local development machine
 
-User input : ABCDDHAG
-Output : Dublicate Character found in string are "AD"
+```sh
+git clone https://github.com/your-username/HacktoberfestHackDay2018.git
+```
+4. Create a branch for new Issue
 
-**NOTES
+```sh
+git checkout -b issue/branch-name
+```
+5. Add your name in the following format in `CONTRIBUTORS.md` file
 
-Don't use system define function to perform task
+
+```markdown
+Name: [YOUR NAME](Github Profile Link)
+Place: Your city
+About: Short Introduction
+Programming Language: Which programming language do you know?
+Email: Your email
+```
+6. Commit and push your changes to your fork.
+7. [Create a pull request](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github) with a description.
+8. Wait for your PR review and merge.
+ 
+**Spread the love by giving a star ⭐ to this repository.**
+
+
+
+
+Made with ❤️ by [WebMob Technologies](https://webmobtech.com).
