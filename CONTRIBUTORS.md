@@ -1,4 +1,5 @@
 Name: [Sujal Patel](https://github.com/sujalpatel2209)<br/>
 Place: Ahmedabad, India<br/>
 About: Web Team Lead <br/>
+Programming Language: PHP, Javascript, Laravel, ReactJS, VueJS, NodeJS
 Email: sujalpatel022@gmail.com<br/>
