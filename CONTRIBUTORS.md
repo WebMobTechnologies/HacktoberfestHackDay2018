@@ -21,3 +21,9 @@ Place: Rajkot, India<br/>
 About: iOS and React Native Mobile App Developer <br/>
 Programming Language : Swift,Javascript,Objective C <br/>
 Email: gajra.hiren@gmail.com <br/>
+
+Name: [Samir Solanki](https://github.com/samsol38)<br/>
+Place: Ahmedabad, India<br/>
+About: iOS and React Native Mobile App Developer<br/>
+Programming Language : Objective C, Swift, Java, Javascript<br/>
+Email: solanki.samir@gmail.com<br/>
