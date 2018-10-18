@@ -1,4 +1,3 @@
-
 Name: [Kashyap Merai](https://github.com/kamerk22)<br/>
 Place: Surat, India<br/>
 About: Full Stack Web Developer | Designer | DevOps | Dreadhead <br/>

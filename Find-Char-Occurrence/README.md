@@ -6,7 +6,6 @@ Input:
   - Provide string having unique characters (Ex: 'ab')
   - Provide output string length (Ex: 2)
 
-
 Output:
   - Array of all the strings which concludes as possible all unique occurrence of characters
   - (Ex: ['aa', 'bb', 'ab', 'ba'])
