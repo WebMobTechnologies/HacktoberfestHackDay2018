@@ -1,0 +1,200 @@
+<html>
+    <head>
+        <script language="javascript">
+
+        function checkzip() {
+        
+            var zip = document.getElementById('zipcode');
+            var filter =/^[1-9][0-9]{5}$/;
+        
+            if (!filter.test(zip.value)) {
+                document.getElementById('p1').innerHTML="zip is wrong"
+            }
+
+            else
+            {
+
+           document.getElementById('p1').innerHTML="zip is right";
+
+            }
+            
+            
+        }
+        function checkurl() {
+        
+        var url = document.getElementById('link');
+        var filter =/\(?(?:(http|https|ftp):\/\/)?(?:((?:[^\W\s]|\.|-|[:]{1})+)@{1})?((?:www.)?(?:[^\W\s]|\.|-)+[\.][^\W\s]{2,4}|localhost(?=\/)|\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3})(?::(\d*))?([\/]?[^\s\?]*[\/]{1})*(?:\/?([^\s\n\?\[\]\{\}\#]*(?:(?=\.)){1}|[^\s\n\?\[\]\{\}\.\#]*)?([\.]{1}[^\s\?\#]*)?)?(?:\?{1}([^\s\n\#\[\]]*))?([\#][^\s\n]*)?\)?$/;
+    
+        if (!filter.test(url.value)) {
+            document.getElementById('p1').innerHTML="URL is wrong"
+        }
+
+        else
+        {
+
+       document.getElementById('p1').innerHTML="URL is right";
+
+        }
+        
+        
+    }
+    
+    function checkpass() {
+        
+        var pwd = document.getElementById('pass');
+        var filter =/^(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{10,}$/;
+    
+        if (!filter.test(pwd.value)) {
+            document.getElementById('p1').innerHTML="password  is not strong  Strong password minimum 10 character with one Caps,one Special character, one numaric character"
+        }
+
+        else
+        {
+
+       document.getElementById('p1').innerHTML="Password  is strong";
+
+        }
+        
+        
+    }
+    
+    function checkcard() {
+        
+        var num = document.getElementById('input');
+        var filter =/^(?:4[0-9]{12}(?:[0-9]{3})?|[25][1-7][0-9]{14}|6(?:011|5[0-9][0-9])[0-9]{12}|3[47][0-9]{13}|3(?:0[0-5]|[68][0-9])[0-9]{11}|(?:2131|1800|35\d{3})\d{11})$/;
+    
+        if (!filter.test(num.value)) {
+            document.getElementById('p1').innerHTML="Card is not vald"
+        }
+
+        else
+        {
+
+       document.getElementById('p1').innerHTML="card is valid";
+
+        }
+        
+        
+    }
+    
+    function checkmobilenum() {
+        
+        var number = document.getElementById('mono');
+        var filter =/^[6789]\d{9}$/;
+    
+        if (!filter.test(number.value)) {
+            document.getElementById('p1').innerHTML="Mobile Number is not vald"
+        }
+
+        else
+        {
+
+       document.getElementById('p1').innerHTML="Mobile Number is valid";
+
+        }
+        
+        
+    }
+    
+    function checkusername() {
+        
+        var name = document.getElementById('uname');
+        var filter =/^([A-Z])\w+\S\d{1,}$/;
+    
+        if (!filter.test(name.value)) {
+            document.getElementById('p1').innerHTML="User Name is not valid  "
+        }
+
+        else
+        {
+
+       document.getElementById('p1').innerHTML="User Name is valid";
+
+        }
+        
+        
+    }
+    
+    function checkname() {
+        
+        var fname = document.getElementById('flname');
+        var filter =/^^[a-zA-Z]\w{3,10}\D$/;
+    
+        if (!filter.test(fname.value)) {
+            document.getElementById('p1').innerHTML=" Name is not vald  Minimum length 3 and Maxmum length 10 character"
+        }
+
+        else
+        {
+
+       document.getElementById('p1').innerHTML=" Name is valid";
+
+        }
+        
+        
+    }
+    </script>
+    </head>
+    <body>
+        <h1 id="p1">
+
+        </h1>
+        <label for="zip code">Enter zip</label>
+        <input type='text' id='zipcode'/><br>
+        <p></p>
+        <input type='submit' name='submit' value="check zip" onclick='Javascript:checkzip();'/>
+        <br>
+
+        <p>   </p>
+       
+        <label for="">Enter URL</label>
+       
+        <input type='text' id='link'/><br>
+        <p></p>
+        <input type='submit' name='submit' value="check URL" onclick='Javascript:checkurl();'/>
+       
+        <p>   </p>
+        <label for="">Enter Password</label>
+        
+        <input type='text' id='pass'/><br>
+        <p></p>
+        <input type='submit' name='submit' value="check Password" onclick='Javascript:checkpass();'/>
+        <p id="p1"></p>        
+       
+        <p>   </p>
+        <label for="">Enter credit/debit Card number</label>
+        
+        <input type='text' id='input'/><br>
+        <p></p>
+        <input type='submit' name='submit' value="check card" onclick='Javascript:checkcard();'/>
+        <p id="p1"></p>        
+        
+        <p>   </p>
+
+        <label for="">Enter Mobile Number</label>
+        
+        <input type='text' id='mono'/><br>
+        <p></p>
+        <input type='submit' name='submit' value="check Mobile Number" onclick='Javascript:checkmobilenum();'/>
+        <p id="p1"></p>    
+        
+        <p>   </p>
+
+        <label for="">Enter User name</label>
+        
+        <input type='text' id='uname'/><br>
+        <p></p>
+        <input type='submit' name='submit' value="check User Name" onclick='Javascript:checkusername();'/>
+        <p id="p1"></p>        
+    
+        <p>   </p>
+
+        <label for="">Enter Name</label>
+        
+        <input type='text' id='flname'/><br>
+        <p></p>
+        <input type='submit' name='submit' value="check User Name" onclick='Javascript:checkname();'/>
+        <p id="p1"></p>        
+    
+    </body>
+</html>
