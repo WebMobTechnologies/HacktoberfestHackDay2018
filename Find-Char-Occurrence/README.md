@@ -1,6 +1,7 @@
 # Find possible all unique occurrence of characters (Strings)
 
 Defination: Find possible all unique occurrence of characters (Strings) from unique character array or string and output string length.
+
 # Example - 1:
 Input:
   - Provide string having unique characters (Ex: 'ab')
@@ -19,3 +20,4 @@ Input:
 Output:
   - Array of all the strings which concludes as possible all unique occurrence of characters
   - (Ex: ['aaa', 'aab', 'aac', 'aba', 'abb', 'abc', 'aca', 'acb', 'acc', 'baa', 'bab', 'bac', 'bba', 'bbb', 'bbc', 'bca', 'bcb', 'bcc', 'caa', 'cab', 'cac', 'cba', 'cbb', 'cbc', 'cca', 'ccb', 'ccc'])
+
