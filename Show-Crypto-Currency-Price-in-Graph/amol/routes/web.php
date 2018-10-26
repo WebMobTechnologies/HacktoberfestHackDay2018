@@ -12,5 +12,7 @@
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('crypto.index');
 });
+
+Route::get('index', 'CryptoController@coinIndex');
