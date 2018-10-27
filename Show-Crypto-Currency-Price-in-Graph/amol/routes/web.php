@@ -15,4 +15,9 @@ Route::get('/', function () {
     return view('crypto.index');
 });
 
-Route::get('index', 'CryptoController@coinIndex');
+Route::get('/', 'CryptoController@coinIndex')->name('index');
+Route::get('data', 'CryptoController@coinIndex');
+
+Route::get('/graph', function () {
+    return view('crypto.master');
+});
