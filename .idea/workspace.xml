@@ -1,0 +1,812 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1920048a-cf52-4949-8a9b-1a008c38d5df" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/css/colors.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/css/components.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/css/core.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/css/extras/animate.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/css/icons/fontawesome/fonts/fontawesome-webfont5b62.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/css/icons/fontawesome/fonts/fontawesome-webfont5b62.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/css/icons/fontawesome/fonts/fontawesome-webfont5b62.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/css/icons/fontawesome/fonts/fontawesome-webfont5b62.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/css/icons/fontawesome/fonts/fontawesome-webfont5b62.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/css/icons/fontawesome/fonts/fontawesome-webfontd41d.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/css/icons/fontawesome/styles.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/css/icons/glyphicons/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/css/icons/glyphicons/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/css/icons/glyphicons/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/css/icons/glyphicons/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/css/icons/glyphicons/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/css/icons/glyphicons/glyphicons-halflings-regulard41d.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/css/icons/icomoon/fonts/icomoond41d.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/css/icons/icomoon/fonts/icomoone627.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/css/icons/icomoon/fonts/icomoone627.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/css/icons/icomoon/fonts/icomoone627.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/css/icons/icomoon/fonts/icomoone627.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/css/icons/icomoon/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/css/icons/summernote/summernoted41d.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/css/icons/summernote/summernotef534.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/css/icons/summernote/summernotef534.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/css/icons/summernote/summernotef534.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/c3/c3_advanced.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/c3/c3_axis.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/c3/c3_bars_pies.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/c3/c3_grid.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/c3/c3_lines_areas.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/d3/bars/bars_advanced_hierarchical.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/d3/bars/bars_advanced_histogram.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/d3/bars/bars_advanced_simple_interaction.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/d3/bars/bars_advanced_sortable_horizontal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/d3/bars/bars_advanced_sortable_vertical.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/d3/bars/bars_advanced_stacked_multiple.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/d3/bars/bars_basic_grouped.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/d3/bars/bars_basic_horizontal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/d3/bars/bars_basic_stacked.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/d3/bars/bars_basic_stacked_normalized.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/d3/bars/bars_basic_tooltip.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/d3/bars/bars_basic_vertical.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/d3/chords/chord_arcs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/d3/chords/chord_basic.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/d3/chords/chord_chart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/d3/chords/chord_tweens.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/d3/lines/lines_advanced_difference.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/d3/lines/lines_advanced_missing.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/d3/lines/lines_advanced_small_multiples.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/d3/lines/lines_advanced_spline_transition.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/d3/lines/lines_advanced_transitions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/d3/lines/lines_advanced_zoom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/d3/lines/lines_basic.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/d3/lines/lines_basic_area.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/d3/lines/lines_basic_bivariate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/d3/lines/lines_basic_gradient.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/d3/lines/lines_basic_multi_series.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/d3/lines/lines_basic_stacked.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/d3/lines/lines_basic_stacked_nest.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/d3/other/bubbles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/d3/other/streamgraph.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/d3/other/treemap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/d3/other/waterfall.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/d3/pies/donut_arc_tween.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/d3/pies/donut_basic.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/d3/pies/donut_entry_animation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/d3/pies/donut_multiple.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/d3/pies/donut_multiple_nesting.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/d3/pies/donut_update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/d3/pies/pie_arc_tween.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/d3/pies/pie_basic.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/d3/pies/pie_entry_animation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/d3/pies/pie_multiple.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/d3/pies/pie_multiple_nesting.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/d3/pies/pie_update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/d3/sunburst/sunburst_basic.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/d3/sunburst/sunburst_combined.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/d3/sunburst/sunburst_distortion.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/d3/sunburst/sunburst_zoom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/d3/tree/tree_basic.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/d3/tree/tree_bracket.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/d3/tree/tree_collapsible.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/d3/tree/tree_dendrogram.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/d3/tree/tree_dendrogram_radial.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/d3/tree/tree_radial.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/d3/venn/venn_basic.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/d3/venn/venn_colors.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/d3/venn/venn_interactive.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/d3/venn/venn_rings.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/d3/venn/venn_tooltip.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/d3/venn/venn_weighted.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/dimple/area/area_horizontal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/dimple/area/area_horizontal_grouped.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/dimple/area/area_horizontal_stacked.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/dimple/area/area_horizontal_stacked_grouped.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/dimple/area/area_horizontal_stacked_normalized.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/dimple/area/area_vertical.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/dimple/area/area_vertical_grouped.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/dimple/area/area_vertical_stacked.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/dimple/area/area_vertical_stacked_grouped.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/dimple/area/area_vertical_stacked_normalized.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/dimple/bars/bar_horizontal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/dimple/bars/bar_horizontal_grouped.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/dimple/bars/bar_horizontal_stacked.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/dimple/bars/bar_horizontal_stacked_grouped.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/dimple/bars/bar_horizontal_stacked_normalized.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/dimple/bars/bar_vertical.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/dimple/bars/bar_vertical_grouped.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/dimple/bars/bar_vertical_stacked.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/dimple/bars/bar_vertical_stacked_grouped.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/dimple/bars/bar_vertical_stacked_normalized.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/dimple/bubble/bubble_basic.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/dimple/bubble/bubble_horizontal_lollipop.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/dimple/bubble/bubble_lollipop_grouped.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/dimple/bubble/bubble_matrix.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/dimple/bubble/bubble_vertical_lollipop.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/dimple/lines/line_horizontal_multiple.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/dimple/lines/line_horizontal_multiple_grouped.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/dimple/lines/line_horizontal_single.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/dimple/lines/line_horizontal_single_grouped.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/dimple/lines/line_vertical_multiple.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/dimple/lines/line_vertical_multiple_grouped.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/dimple/lines/line_vertical_single.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/dimple/lines/line_vertical_single_grouped.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/dimple/pies/pie_basic.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/dimple/pies/pie_bubble.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/dimple/pies/pie_legend.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/dimple/pies/pie_lollipop.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/dimple/pies/pie_matrix.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/dimple/pies/pie_scatter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/dimple/rings/ring_basic.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/dimple/rings/ring_bubble.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/dimple/rings/ring_concentric.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/dimple/rings/ring_lollipop.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/dimple/rings/ring_matrix.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/dimple/rings/ring_scatter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/dimple/scatter/scatter_basic.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/dimple/scatter/scatter_horizontal_lollipop.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/dimple/scatter/scatter_lollipop_grouped.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/dimple/scatter/scatter_matrix.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/dimple/scatter/scatter_vertical_lollipop.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/dimple/step/step_horizontal_multiple.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/dimple/step/step_horizontal_multiple_grouped.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/dimple/step/step_horizontal_single.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/dimple/step/step_horizontal_single_grouped.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/dimple/step/step_vertical_multiple.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/dimple/step/step_vertical_multiple_grouped.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/dimple/step/step_vertical_single.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/dimple/step/step_vertical_single_grouped.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/echarts/bars_tornados.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/echarts/candlesticks_others.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/echarts/columns_waterfalls.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/echarts/combinations.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/echarts/funnels_chords.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/echarts/lines_areas.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/echarts/pies_donuts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/echarts/scatter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/echarts/timeline_option.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/google/bars/bar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/google/bars/bar_stacked.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/google/bars/column.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/google/bars/column_stacked.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/google/bars/combo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/google/bars/histogram.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/google/bubbles/bubble.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/google/bubbles/bubble_gradient.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/google/lines/area.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/google/lines/area_intervals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/google/lines/area_stacked.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/google/lines/area_stepped.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/google/lines/line_intervals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/google/lines/lines.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/google/other/candlestick.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/google/other/diff.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/google/other/geo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/google/other/sankey.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/google/other/trendline.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/google/pies/3d_exploded.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/google/pies/donut.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/google/pies/donut_exploded.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/google/pies/donut_rotate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/google/pies/pie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/google/pies/pie_3d.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/google/pies/pie_diff_border.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/google/pies/pie_diff_invert.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/google/pies/pie_diff_opacity.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/google/pies/pie_diff_radius.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/google/pies/pie_exploded.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/google/pies/pie_rotate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/google/scatter/scatter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/charts/google/scatter/scatter_diff.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/core/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/core/libraries/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/core/libraries/jasny_bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/core/libraries/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/core/libraries/jquery_ui/core.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/core/libraries/jquery_ui/effects.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/core/libraries/jquery_ui/globalize/cultures/globalize.culture.de-DE.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/core/libraries/jquery_ui/globalize/cultures/globalize.culture.ja-JP.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/core/libraries/jquery_ui/globalize/globalize.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/core/libraries/jquery_ui/interactions.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/core/libraries/jquery_ui/touch.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/core/libraries/jquery_ui/widgets.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/maps/google/basic/basic.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/maps/google/basic/click_event.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/maps/google/basic/coordinates.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/maps/google/basic/geolocation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/maps/google/controls/adding_controls.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/maps/google/controls/control_options.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/maps/google/controls/control_positioning.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/maps/google/controls/disable_ui.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/maps/google/drawings/circles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/maps/google/drawings/polygons.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/maps/google/drawings/polylines.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/maps/google/drawings/rectangles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/maps/google/layers/bicycling.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/maps/google/layers/fusion_tables.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/maps/google/layers/traffic.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/maps/google/layers/transit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/maps/google/markers/animation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/maps/google/markers/simple.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/maps/google/markers/symbols_custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/maps/google/markers/symbols_predefined.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/maps/vector/vector_maps_demo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/alpaca_advanced.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/alpaca_basic.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/alpaca_controls.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/animations_css3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/animations_velocity_basic.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/animations_velocity_examples.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/animations_velocity_ui.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/appearance_draggable_panels.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/appearance_panel_heading.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/colors_blue.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/colors_brown.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/colors_danger.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/colors_green.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/colors_grey.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/colors_indigo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/colors_info.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/colors_orange.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/colors_pink.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/colors_primary.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/colors_purple.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/colors_slate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/colors_success.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/colors_teal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/colors_violet.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/colors_warning.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/components_buttons.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/components_dropdowns.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/components_loaders.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/components_media.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/components_modals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/components_navs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/components_notifications_other.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/components_notifications_pnotify.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/components_page_header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/components_pagination.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/components_popups.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/components_thumbnails.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/dashboard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/dashboard_boxed.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/dashboard_boxed_full.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/datatables_advanced.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/datatables_api.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/datatables_basic.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/datatables_data_sources.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/datatables_extension_autofill.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/datatables_extension_buttons_flash.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/datatables_extension_buttons_html5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/datatables_extension_buttons_init.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/datatables_extension_buttons_print.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/datatables_extension_colvis.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/datatables_extension_fixed_columns.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/datatables_extension_fixed_header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/datatables_extension_key_table.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/datatables_extension_reorder.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/datatables_extension_row_reorder.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/datatables_extension_scroller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/datatables_extension_select.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/datatables_responsive.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/datatables_sorting.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/editor_ckeditor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/editor_code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/editor_summernote.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/editor_wysihtml5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/extension_blockui.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/extension_dnd.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/extension_image_cropper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/extra_context_menu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/extra_fab.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/extra_fullcalendar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/extra_fullcalendar_advanced.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/extra_fullcalendar_formats.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/extra_idle_timeout.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/extra_session_timeout.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/extra_sliders_ion.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/extra_sliders_noui.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/extra_trees.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/form_bootstrap_select.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/form_checkboxes_radios.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/form_controls_extended.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/form_dual_listboxes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/form_editable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/form_floating_labels.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/form_input_groups.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/form_inputs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/form_layouts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/form_multiselect.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/form_select2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/form_selectbox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/form_tags_input.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/form_validation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/gallery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/gallery_library.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/handsontable_ac_password.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/handsontable_advanced.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/handsontable_basic.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/handsontable_cells.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/handsontable_cols.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/handsontable_context.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/handsontable_custom_checks.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/handsontable_search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/handsontable_types.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/internationalization_callbacks.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/internationalization_fallback.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/internationalization_on_init.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/internationalization_switch_direct.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/internationalization_switch_query.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/invoice_archive.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/invoice_grid.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/invoice_template.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/jqueryui_components.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/jqueryui_forms.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/jqueryui_interactions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/jqueryui_navigation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/jqueryui_sliders.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/layout_fixed_custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/layout_fixed_native.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/layout_navbar_hideable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/layout_navbar_hideable_sidebar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/layout_navbar_secondary_fixed.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/login_validation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/navbar_components.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/navbar_hideable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/navbar_multiple.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/navbar_single.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/navigation_horizontal_elements.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/navigation_horizontal_mega.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/navigation_vertical_sizing.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/picker_color.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/picker_date.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/picker_location.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/sidebar_components.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/sidebar_detached_sticky_custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/sidebar_detached_sticky_native.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/sidebar_dual.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/support_chat_layouts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/table_elements.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/table_responsive.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/task_detailed.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/tasks_grid.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/tasks_list.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/timelines.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/uploader_bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/uploader_dropzone.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/uploader_plupload.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/user_pages_list.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/user_pages_profile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/user_pages_team.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/wizard_form.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/wizard_steps.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/pages/wizard_stepy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/plugins/buttons/hover_dropdown.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/plugins/buttons/ladda.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/plugins/buttons/spin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/plugins/editors/ace/ace.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/plugins/editors/summernote/summernote.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/plugins/editors/wysihtml5/locales/bootstrap-wysihtml5.ua-UA.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/plugins/editors/wysihtml5/parsers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/plugins/editors/wysihtml5/toolbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/plugins/editors/wysihtml5/wysihtml5.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/plugins/extensions/contextmenu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/plugins/extensions/cookie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/plugins/extensions/mockjax.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/plugins/extensions/mousewheel.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/plugins/extensions/session_timeout.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/plugins/forms/editable/address.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/plugins/forms/editable/editable.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/plugins/forms/inputs/alpaca/alpaca.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/plugins/forms/inputs/alpaca/price_format.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/plugins/forms/inputs/autosize.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/plugins/forms/inputs/duallistbox.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/plugins/forms/inputs/formatter.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/plugins/forms/inputs/maxlength.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/plugins/forms/inputs/passy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/plugins/forms/inputs/touchspin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/plugins/forms/inputs/typeahead/handlebars.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/plugins/forms/inputs/typeahead/typeahead.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/plugins/forms/selects/bootstrap_multiselect.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/plugins/forms/selects/bootstrap_select.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/plugins/forms/selects/select2.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/plugins/forms/selects/selectboxit.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/plugins/forms/styling/switch.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/plugins/forms/styling/switchery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/plugins/forms/styling/uniform.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/plugins/forms/tags/tagsinput.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/plugins/forms/tags/tokenfield.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/plugins/forms/validation/validate.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/plugins/forms/wizards/form_wizard/form.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/plugins/forms/wizards/form_wizard/form_wizard.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/plugins/forms/wizards/steps.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/plugins/forms/wizards/stepy.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/plugins/internationalization/i18next.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/plugins/loaders/blockui.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/plugins/loaders/pace.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/plugins/loaders/progressbar.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/plugins/maps/jvectormap/jvectormap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/plugins/maps/jvectormap/map_files/countries/germany.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/plugins/maps/jvectormap/map_files/countries/usa.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/plugins/maps/jvectormap/map_files/world.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/plugins/media/cropper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/plugins/media/fancybox.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/plugins/notifications/bootbox.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/plugins/notifications/jgrowl.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/plugins/notifications/noty.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/plugins/notifications/pnotify.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/plugins/notifications/sweet_alert.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/plugins/pagination/bootpag.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/plugins/pagination/bs_pagination.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/plugins/pagination/datepaginator.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/plugins/pickers/anytime.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/plugins/pickers/color/spectrum.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/plugins/pickers/datepicker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/plugins/pickers/daterangepicker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/plugins/pickers/location/autocomplete_addresspicker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/plugins/pickers/location/location.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/plugins/pickers/location/typeahead_addresspicker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/plugins/pickers/pickadate/legacy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/plugins/pickers/pickadate/picker.date.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/plugins/pickers/pickadate/picker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/plugins/pickers/pickadate/picker.time.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/plugins/sliders/ion_rangeslider.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/plugins/sliders/nouislider.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/plugins/sliders/slider_pips.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/plugins/tables/datatables/datatables.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/plugins/tables/datatables/extensions/autofill.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/plugins/tables/datatables/extensions/buttons.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/plugins/tables/datatables/extensions/col_reorder.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/plugins/tables/datatables/extensions/fixed_columns.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/plugins/tables/datatables/extensions/fixed_header.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/plugins/tables/datatables/extensions/jszip/jszip.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/plugins/tables/datatables/extensions/key_table.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/plugins/tables/datatables/extensions/natural_sort.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/plugins/tables/datatables/extensions/pdfmake/pdfmake.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/plugins/tables/datatables/extensions/pdfmake/vfs_fonts.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/plugins/tables/datatables/extensions/responsive.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/plugins/tables/datatables/extensions/row_reorder.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/plugins/tables/datatables/extensions/scroller.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/plugins/tables/datatables/extensions/select.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/plugins/tables/footable/footable.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/plugins/tables/handsontable/handsontable.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/plugins/tables/handsontable/languages.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/plugins/trees/fancytree_all.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/plugins/trees/fancytree_childcounter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/plugins/ui/dragula.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/plugins/ui/drilldown.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/plugins/ui/fab.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/plugins/ui/fullcalendar/fullcalendar.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/plugins/ui/fullcalendar/lang/all.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/plugins/ui/fullcalendar/lang/ar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/plugins/ui/headroom/headroom.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/plugins/ui/headroom/headroom_jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/plugins/ui/moment/moment.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/plugins/ui/moment/moment_locales.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/plugins/ui/nicescroll.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/plugins/ui/prism.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/plugins/ui/ripple.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/plugins/uploaders/dropzone.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/plugins/uploaders/fileinput.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/plugins/uploaders/plupload/plupload.full.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/plugins/uploaders/plupload/plupload.queue.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/plugins/velocity/velocity.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/plugins/velocity/velocity.ui.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/plugins/visualization/c3/c3.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/plugins/visualization/d3/d3.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/plugins/visualization/d3/d3_tooltip.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/plugins/visualization/d3/venn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/plugins/visualization/dimple/dimple.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/plugins/visualization/echarts/echarts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets/js/plugins/visualization/sparkline.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/resources/views/crypto/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/routes/web.php" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="880542854">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="env" value="2" />
+          <entry key="json" value="1" />
+          <entry key="php" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Blade" value="1" />
+          <entry key="JSON" value="1" />
+          <entry key="PHP" value="3" />
+          <entry key="PLAIN_TEXT" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="env" value="12" />
+          <entry key="json" value="2" />
+          <entry key="php" value="469" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Blade" value="307" />
+          <entry key="JSON" value="2" />
+          <entry key="PHP" value="162" />
+          <entry key="PLAIN_TEXT" value="12" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/resources/views/crypto/index.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1290">
+              <caret line="86" column="79" selection-start-line="86" selection-start-column="79" selection-end-line="86" selection-end-column="79" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/app/Http/Controllers/CryptoController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="61" selection-start-line="13" selection-start-column="61" selection-end-line="13" selection-end-column="61" />
+              <folding>
+                <element signature="e#40#68#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/.env">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="555">
+              <caret line="37" column="40" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/routes/web.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="17" column="47" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/composer.json" />
+        <option value="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/.env" />
+        <option value="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/routes/web.php" />
+        <option value="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/resources/views/crypto/index.blade.php" />
+        <option value="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/app/Http/Controllers/CryptoController.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="27" />
+    <option name="width" value="1580" />
+    <option name="height" value="840" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="HacktoberfestHackDay2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HacktoberfestHackDay2018" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HacktoberfestHackDay2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HacktoberfestHackDay2018" type="462c0819:PsiDirectoryNode" />
+              <item name="Show-Crypto-Currency-Price-in-Graph" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HacktoberfestHackDay2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HacktoberfestHackDay2018" type="462c0819:PsiDirectoryNode" />
+              <item name="Show-Crypto-Currency-Price-in-Graph" type="462c0819:PsiDirectoryNode" />
+              <item name="amol" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HacktoberfestHackDay2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HacktoberfestHackDay2018" type="462c0819:PsiDirectoryNode" />
+              <item name="Show-Crypto-Currency-Price-in-Graph" type="462c0819:PsiDirectoryNode" />
+              <item name="amol" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HacktoberfestHackDay2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HacktoberfestHackDay2018" type="462c0819:PsiDirectoryNode" />
+              <item name="Show-Crypto-Currency-Price-in-Graph" type="462c0819:PsiDirectoryNode" />
+              <item name="amol" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Http" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HacktoberfestHackDay2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HacktoberfestHackDay2018" type="462c0819:PsiDirectoryNode" />
+              <item name="Show-Crypto-Currency-Price-in-Graph" type="462c0819:PsiDirectoryNode" />
+              <item name="amol" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Http" type="462c0819:PsiDirectoryNode" />
+              <item name="Controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HacktoberfestHackDay2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HacktoberfestHackDay2018" type="462c0819:PsiDirectoryNode" />
+              <item name="Show-Crypto-Currency-Price-in-Graph" type="462c0819:PsiDirectoryNode" />
+              <item name="amol" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HacktoberfestHackDay2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HacktoberfestHackDay2018" type="462c0819:PsiDirectoryNode" />
+              <item name="Show-Crypto-Currency-Price-in-Graph" type="462c0819:PsiDirectoryNode" />
+              <item name="amol" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="web&#9;FILE&#9;file:///opt/lampp/htdocs/HacktoberfestHackDay2018/Show-Crypto-Currency-Price-in-Graph/amol/routes/web.php" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/public/assets" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1920048a-cf52-4949-8a9b-1a008c38d5df" name="Default Changelist" comment="" />
+      <created>1539942664406</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1539942664406</updated>
+      <workItem from="1539942665680" duration="6192000" />
+      <workItem from="1540308259333" duration="44000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="6236000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="25" width="1600" height="842" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24967825" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3286517" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="33" column="9" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/vendor/guzzlehttp/guzzle/src/Client.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3">
+          <caret line="61" column="20" selection-start-line="61" selection-start-column="20" selection-end-line="61" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/resources/views/crypto/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1290">
+          <caret line="86" column="79" selection-start-line="86" selection-start-column="79" selection-end-line="86" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="37" column="40" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/routes/web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="17" column="47" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Show-Crypto-Currency-Price-in-Graph/amol/app/Http/Controllers/CryptoController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="61" selection-start-line="13" selection-start-column="61" selection-end-line="13" selection-end-column="61" />
+          <folding>
+            <element signature="e#40#68#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
