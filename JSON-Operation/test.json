@@ -329,8 +329,12 @@
 "id": 2,
 "name": "Gale Gallegos",
 "age": 33
-}
-],
+},
+{
+"id": 3,
+"name": "Kuldip parmar",
+"age": 22
+}],
 "greeting": "Hello, Santiago Case! You have 4 unread messages.",
 "favoriteFruit": "banana"
 }
